@@ -1,0 +1,11 @@
+
+module.exports = {
+    users: {
+        readOnly: {
+            user: 'ReadOnlyUser',
+            password: 'PasswordForReadOnlyUser'
+        }
+    },
+    hostlist: 'clusterSomething.mongodb.net/DefaultDatabaseName?retryWrites=true&w=majority',
+    database: 'DatabaseName'
+};

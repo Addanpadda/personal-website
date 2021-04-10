@@ -1,0 +1,14 @@
+
+.box {
+    background-color: #EEE;
+}
+
+.playerBackground {
+    background-color: rgba(40, 40, 40, 0.9);
+}
+
+.player {
+    border-style: ridge;
+    border-color: white;
+    border-width: 5px;
+}

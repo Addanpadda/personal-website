@@ -1,0 +1,20 @@
+.banner {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%) rotate(-3deg);
+  background: blue;
+  color: yellow;
+  font-size: 1rem;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.banner:hover {
+    color: #CCCC00;
+}
+
+@media only screen and (min-width: 768px) {
+    .banner {
+	font-size: 1.2rem;
+    }
+}

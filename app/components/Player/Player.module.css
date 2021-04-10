@@ -1,0 +1,10 @@
+
+.playerBackground {
+    background-color: rgba(40, 40, 40, 0.9);
+}
+
+.player {
+    border-style: solid;
+    border-color: white;
+    border-width: 3px;
+}
